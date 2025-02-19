@@ -4,3 +4,7 @@ Chiagoziem,Git,submitted
 Divine,Shell Navigation,not submitted
 Anissa,Shell Basics,submitted
 Alex,Shell Navigation,not submitted
+Ella,shell navigation,submitted
+alain,shell basics,not submitted
+audran, git, submitted
+aurele,shell navigations,not submitted
